@@ -1,4 +1,4 @@
-video pausado no minuto 41:00  (media player) 
+
 
 "package.json" => onde esta toda a dependecia do projeto (favor olhar atentamente)
 
